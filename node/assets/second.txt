@@ -1,0 +1,1 @@
+This is second file and it is created in 5.fs.js file for testing writeFileSync and first one has this text ::this is first text file for testing readFileSync in fs(file structure) in node.js and it is created manually.

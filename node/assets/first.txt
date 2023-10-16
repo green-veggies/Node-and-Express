@@ -1,0 +1,1 @@
+this is first text file for testing readFileSync in fs(file structure) in node.js and it is created manually.
